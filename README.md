@@ -14,11 +14,15 @@ To implement this project we choosed ELK stack  </p>
 
 "ELK" is an acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server-side pipeline, intended for data processing (ETL type). His mission ? Simultaneously ingest data from multiple sources, then transform it and send it to a storage system like Elasticsearch. Kibana allows users to visualize data with tables and graphs in Elasticsearch.
 
-
-  ![Alt text](./resources/-logs-elk-stack-elastic-cloud.png?raw=true "ELK STACK")
+   <p align="center">
+  <img src="./resources/-logs-elk-stack-elastic-cloud.png" width="700" title="hover text">
+  
+</p>
   
 <h2>Awesome DASHBOARD with KIBANA </h2>
 
-
-
+   
+   <p align="center">
+  <img src="./resources/dashboard.png" width="700" title="hover text">
   
+</p>
