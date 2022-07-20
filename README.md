@@ -10,7 +10,7 @@
 <h2>The goal of the project </h2>
 <p> The purpose of this project is to perform an analysis of tweets regarding vaccins of coronavirus and make a sentiment analysis to understand different opinions about  it, weither people are alike to make it or they are suspicious about it or they are neutral  <p>
 
-<h2>hat is ELK STACK </h2>
+<h2>What is ELK STACK </h2>
 
 "ELK" is an acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server-side pipeline, intended for data processing (ETL type). His mission ? Simultaneously ingest data from multiple sources, then transform it and send it to a storage system like Elasticsearch. Kibana allows users to visualize data with tables and graphs in Elasticsearch.
 
